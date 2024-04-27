@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sonugaz" target="blank"><img src="https://img.shields.io/twitter/follow/sonugaz?logo=twitter&style=for-the-badge" alt="sonugaz" /></a> </p>
 
-- 🔭 I’m currently working on [she Leads](https://sheleads.netlify.app/)
+- 🔭 I’m currently working on bump tech https://bumptech.netlify.app/
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://aquamarine-pastelito-eb05c9.netlify.app/](https://aquamarine-pastelito-eb05c9.netlify.app/)
+- 👨‍💻 All of my projects are available at https://elizabethkujore.netlify.app/
 
 - 💬 Ask me about **react, vite, nodeJS,**
 

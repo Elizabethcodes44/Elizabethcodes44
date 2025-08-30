@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Kujore</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria based in Turkey</h3>
+<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabethcodes44&label=Profile%20views&color=0e75b6&style=flat" alt="elizabethcodes44" /> </p>
 
